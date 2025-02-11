@@ -1,10 +1,7 @@
 # call-ai-backend
 
-
 ## product:
 
-- get a number from twillio
-- import number into vapi 
 - choose a german voice on vapi
 - make a call agent on vapi for fopr appointent making like:
     Bot: "Autohaus Müller, wie kann ich Ihnen helfen?"
@@ -16,15 +13,17 @@
 - make a demo and share it with moritz 
 - repeat the same steps but this time via api interface and hosting on railway
 - make a demo for:
-    - Erste Kontaktaufnahme
     - Service-Terminvereinbarung 
-    - Nachverfolgung (Follow-up)
 - make the demo like i did it with the sound wave app i found
+- make a really good demo on linkedin
+- share demo to willy and ask him if the lu guy would be interested in something like this
 
 ## outreach:
 
-our goal is it to find two customers which are interested in having us automate their call center. for this we need to define what our ideal customer looks like - ie we can either reach out to existing call centers or we can reach out directly to the car dealerships
-
-cold call a bunch of dealership and ask them if they are interested in becoming a partner with us
-
-instead of quantity we should maybe really focus on quality instead. once we have the demo we can just share it in our outreach email
+- make a google sheet with all of the leads from autoscout
+    - scrape data into a csv file
+    - put csv file into google sheet
+    - make each number callable and each website url clickable
+    - add validation
+    - find a way to record phone calls without having the other party listening to the call
+    - add the transcribed phone call to the google sheet 
